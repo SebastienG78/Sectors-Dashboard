@@ -1,1 +1,1 @@
-# Sectors-Dashboard
+Creation of an Excel file allowing the client to understand the traceability of their waste and containing hyperlinks to documents such as acceptance certificates, transport receipts, and prefectural orders from treatment centers.
